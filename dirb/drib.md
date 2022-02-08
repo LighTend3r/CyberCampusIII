@@ -23,5 +23,10 @@ Une autre utilisation assez commune qui permet de rechercher des fichiers sur un
 dirb http:siteweb/fichier/out/content/index.html?page= /usr/share/wordlist/dirb/commun.txt -t
 ```
 
+### Option :
+
+* **-t**
+
+Comme vue plus haut, l'option `-t`, empêche l'antislash de ce mettre a la fin de l'url rechercher, ça permet de **rechercher des fichiers** et non des dossiersd
 
 
