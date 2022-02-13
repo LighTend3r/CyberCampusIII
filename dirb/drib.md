@@ -1,5 +1,7 @@
 # dirb
 
+**/!\ En construction**
+
 ## Description :
 
 Dirb est un commande intégré dans KaliLinux, elle permet de faire un recherche de tout les dossier/fichier qui peuvent potentiellment exister sur un site Web.
